@@ -129,16 +129,20 @@ client_socket.close()
 
 
 ## Output:
-```
+
 
 server.py
 
+
 <img width="493" height="302" alt="Screenshot 2026-10-27 135758" src="https://github.com/user-attachments/assets/afb0a8cd-fc36-4291-94a0-5eea8111f2d8" />
+
+
 
 client.py
 
+
 <img width="461" height="107" alt="Screenshot 2026-10-27 135818" src="https://github.com/user-attachments/assets/12b4c36d-fdf1-4ed5-9669-61bdfae165af" />
 
-```
+
 ## Result:
 Thus the study of Socket Programming Completed Successfully
